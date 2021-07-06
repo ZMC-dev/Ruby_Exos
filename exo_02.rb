@@ -1,3 +1,4 @@
-puts "Bonjour, monde !"
-puts "Et avec une voix sexy, ça donne : Bonjour, monde !"
+#done
+user_name = gets chomp
+puts "Bonjour, #{user_name}"
 
